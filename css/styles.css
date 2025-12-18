@@ -323,7 +323,7 @@ section {
   width: 1100px;
   height: 700px;
   padding: 17px;
-  background: url('../img/map-frame.jpg') center / 100% 100% no-repeat;
+  background: url('../img/map-frame.webp') center / 100% 100% no-repeat;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
 }
 
@@ -649,6 +649,7 @@ section {
     height: 700px;
   }
 }
+
 
 
 
