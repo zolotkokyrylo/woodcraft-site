@@ -633,7 +633,7 @@ section {
   
 .service-card {
   width: 100%;
-  max-width: 400px;
+  max-width: 410px;
   aspect-ratio: 3 / 4;
   padding: 20px 30px;
   border: 35px solid transparent;
@@ -649,6 +649,7 @@ section {
     height: 700px;
   }
 }
+
 
 
 
