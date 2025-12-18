@@ -15,7 +15,7 @@ body {
   font-family: 'Alegreya SC', serif;
   font-weight: 800;
   font-size: 26px;
-  background-image: url('../img/wood-bg.jpg');
+  background-image: url('../img/wood-bg.webp');
   background-size: cover;
   background-attachment: scroll;
   color: var(--brown-main);
@@ -649,6 +649,7 @@ section {
     height: 700px;
   }
 }
+
 
 
 
